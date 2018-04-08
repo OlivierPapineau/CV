@@ -1,0 +1,153 @@
+{
+  "basics": {
+    "name": "Olivier Papineau",
+    "label": "Étudiant en Techniques d'intégration multimédia",
+    "picture": "",
+    "email": "olivier.12.papineau@gmail.com",
+    "phone": "(581) 922-3475",
+    "website": "",
+    "summary": "Olivier Papineau est un étudiant de 19 ans en Techniques d'intégration multimédia au cégep de Ste-foy. Passionné du domaine du développement web et des nouvelles technologies, il n'hésite pas à renforcer sa formation par lui-même grâce à son intérêt.",
+    "location": {
+      "address": "3475 Chemin St-Louis #202",
+      "postalCode": "G1W 1S1",
+      "city": "Québec",
+      "countryCode": "CA",
+      "region": "Québec"
+    },
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Olivier Papineau",
+        "url": "https://www.linkedin.com/in/olivier-papineau-aa5847149/"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Patisserie La Dacquoise Ste-foy",
+      "position": "Caissier",
+      "website": "",
+      "startDate": "2014-09-01",
+      "endDate": "2016-08-10",
+      "summary": "La Dacquoise est une pâtisserie/boulangerie située sur le boulevard Neilson à Ste-foy. Le commerce se spécialise dans la vente de pâtisseries, de pains et d'autres finesses diverses. Ma tâche fût principalement constituée de service à la clientèle et de conseils.",
+      "highlights": []
+    },
+    {
+      "company": "Coop IGA Campanile",
+      "position": "Commis département des viandes",
+      "website": "",
+      "startDate": "2016-11-08",
+      "endDate": "2017-02-16",
+      "summary": "La Coop IGA est une chaine d'épiceries canadienne connue pour la quantité et la qualité de sa sélection de produits. Ma tâche fût constituée de nettoyage du département des viandes selon les critères de la MAPAQ.",
+      "highlights": []
+    },
+    {
+      "company": "Familiprix",
+      "position": "Commis responsable",
+      "website": "",
+      "startDate": "2017-04-08",
+      "endDate": "2017-12-12",
+      "summary": "Gestion des balances de stock, fermeture et ouverture de la pharmacie, gestion des caissiers.",
+      "highlights": []
+    },
+    {
+      "company": "Pâtisserie La Dacquoise Ste-foy",
+      "position": "Livreur",
+      "website": "",
+      "startDate": "2017-12-12",
+      "endDate": "2018-01-12",
+      "summary": "Livraison de nourriture entre différents commerces du propriétaire.",
+      "highlights": [
+        "Une voiture"
+      ]
+    },
+    {
+      "company": "TELUS",
+      "position": "Représentant aux ventes",
+      "website": "telus.com",
+      "startDate": "2018-01-26",
+      "endDate": "",
+      "summary": "",
+      "highlights": [
+        "Smartphones",
+        "Vente de téléphones"
+      ]
+    }
+  ],
+  "volunteer": [],
+  "education": [
+    {
+      "institution": "Cégep de Ste-foy",
+      "area": "Techniques d'intégration multimédia",
+      "studyType": "DEC Technique",
+      "startDate": "2017-08-28",
+      "endDate": "2020-05-18",
+      "gpa": "",
+      "courses": [
+        "Programmation Javascript",
+        "Intégration HTML CSS",
+        "Design d'interface",
+        "Culture Numérique et communication",
+        "Animation 2D",
+        "Programmation PHP",
+        "Bases de données",
+        "Requêtes SQL"
+      ]
+    }
+  ],
+  "awards": [],
+  "publications": [
+    {
+      "name": "Video compression for 3d media",
+      "publisher": "Hooli",
+      "releaseDate": "2014-10-01",
+      "website": "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)",
+      "summary": "Innovative middle-out compression algorithm that changes the way we store data."
+    }
+  ],
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Débutant",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "Bases de données",
+        "SQL"
+      ]
+    },
+    {
+      "name": "Compression",
+      "level": "Apprenti",
+      "keywords": [
+        "JPEG",
+        "PNG",
+        "GIF"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "Français",
+      "fluency": "Langue Natale"
+    },
+    {
+      "language": "Anglais",
+      "fluency": "Fonctionnel"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Technologies",
+      "keywords": [
+        "Smartphones",
+        "Ordinateurs",
+        "Développement Web",
+        "Design Web",
+        "Programmation"
+      ]
+    }
+  ],
+  "references": []
+}
